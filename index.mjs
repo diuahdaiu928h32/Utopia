@@ -4,7 +4,7 @@ import nodeStatic from 'node-static';
 //const cors = require('cors');
 //const frameguard = require('frameguard') //imports iframe block
 //const config = require('./config.json')
-const port = process.env.PORT || 8080;
+const port = process.env.PORT || 8000;
 //const Corrosion = require('./lib/server')
 //const btoa = e => new Buffer.from(e).toString("base64")
 
